@@ -74,3 +74,6 @@ pros | cons of taking COMP2123
 a course with solid and useful contents | too difficult for me
 a further step to C++ program | I should be focusing on Python this semester for Data Mining course. After all, Python is the main tool of a data scientist.
 
+16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac

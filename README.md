@@ -42,4 +42,5 @@ As Kanye West said:
 > We're living the future so
 >the present is our past.
 
-More accurately speaking, the present is the image of our past.<
+More accurately speaking, the present is the image of our past.
+I think you should use an `<addr>` elment here instead.

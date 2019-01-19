@@ -83,7 +83,6 @@ mojombo#1
 mojombo/github-flavored-markdown#1
 @Cheng-Yujia
 
-~~depression
-~~
+~~depression~~
 be.
 :camel:

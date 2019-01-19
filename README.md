@@ -37,3 +37,8 @@ https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
 https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell - automatic!
 
 [GitHub](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+
+As Kanye West said:
+> We're living the future so
+>the present is our past.
+More accurately speaking, the present is the image of our past.

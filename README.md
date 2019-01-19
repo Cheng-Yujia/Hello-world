@@ -68,3 +68,9 @@ def foo():
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
+pros | cons of taking COMP2123
+-----|------------------------
+a course with solid and useful contents | too difficult for me
+a further step to C++ program | I should be focusing on Python this semester for Data Mining course. After all, Python is the main tool of a data scientist.
+

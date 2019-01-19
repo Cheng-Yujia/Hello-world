@@ -44,3 +44,21 @@ As Kanye West said:
 
 More accurately speaking, the present is the image of our past.
 I think you should use an `<addr>` elment here instead.
+
+
+```javascript
+sth
+```
+sth
+    sth
+    
+     sth
+     using namespace std;
+     int main() {} 
+
+
+def foo():
+    if not bar:
+        return True
+     
+     

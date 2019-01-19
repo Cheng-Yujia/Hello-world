@@ -30,3 +30,10 @@ My tasks today are:
     * Trust me.
     
 ![mother](http://pngimg.com/uploads/bmw_logo/bmw_logo_PNG19714.png)
+
+
+https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
+
+https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell - automatic!
+
+[GitHub](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
